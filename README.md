@@ -12,3 +12,5 @@ The goal of this app is to make planning your travels easier by:
 - Uploading any documents you need so you can have them in one place, e.g. plane, train, restaurant booking confirmations.
 
 Initially, this app's main destination will be The Philippines.
+
+View the project's progress here: https://github.com/louisaspicer/travease/projects/1

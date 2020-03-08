@@ -12,7 +12,11 @@ const App = () => {
     <View style={{ flex: 1 }}>
       <NavigationContainer>
         <Stack.Navigator initialRouteName="Home">
-          <Stack.Screen name="Home" component={Home} />
+          <Stack.Screen
+            name="Home"
+            component={Home}
+            options={{ title: "Travease" }}
+          />
         </Stack.Navigator>
       </NavigationContainer>
     </View>
