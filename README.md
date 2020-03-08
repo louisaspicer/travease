@@ -14,3 +14,9 @@ The goal of this app is to make planning your travels easier by:
 Initially, this app's main destination will be The Philippines.
 
 View the project's progress here: https://github.com/louisaspicer/travease/projects/1
+
+### Development
+- To run this app locally, you will need to add an `.env` file in the root of the project, with the following line:
+`GOOGLE_MAPS_API_KEY="your google api key"`
+
+
